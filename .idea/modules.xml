@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatik/chatik.iml" filepath="$PROJECT_DIR$/.idea/modules/chatik/chatik.iml" group="chatik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatik/chatik_main.iml" filepath="$PROJECT_DIR$/.idea/modules/chatik/chatik_main.iml" group="chatik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatik/chatik_test.iml" filepath="$PROJECT_DIR$/.idea/modules/chatik/chatik_test.iml" group="chatik" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProject.iml" filepath="$PROJECT_DIR$/.idea/modules/myProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/myProject_main.iml" group="myProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/myProject_test.iml" group="myProject" />
+    </modules>
+  </component>
+</project>

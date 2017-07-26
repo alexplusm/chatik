@@ -1,0 +1,6 @@
+rootProject.name = 'myProject'
+include 'chatik'
+
+
+
+
